@@ -1,0 +1,116 @@
+City,Borough,District,Lat,Long
+Stockholm,Älvsjö,Herrängen,59.2734284,17.9645874
+Stockholm,Älvsjö,Långsjö,59.2675061,17.9789042
+Stockholm,Älvsjö,Långbro,59.2824326,17.9824914
+Stockholm,Älvsjö,Älvsjö,59.2758491,18.0018895
+Stockholm,Älvsjö,Solberga,59.279574,18.007
+Stockholm,Älvsjö,Örby Slott,59.2809405,18.0292266
+Stockholm,Älvsjö,Liseberg,59.28612065,18.0264843903302
+Stockholm,Bromma,Abrahamsberg,59.3324595,17.949192
+Stockholm,Bromma,Alvik,59.3334008,17.9822792
+Stockholm,Bromma,Beckomberga,59.3582186,17.9049316
+Stockholm,Bromma,Blackeberg,59.3459148,17.8814886
+Stockholm,Bromma,Bromma Kyrka,59.35438655,17.9207710565789
+Stockholm,Bromma,Bällsta,59.363309,17.9257231
+Stockholm,Bromma,Eneby,59.3598595,17.908401
+Stockholm,Bromma,Höglandet,59.3234718,17.9369111
+Stockholm,Bromma,Lunda,59.390159,17.872202
+Stockholm,Bromma,Mariehäll,59.3605533,17.9467087
+Stockholm,Bromma,Nockeby,59.3287669,17.9252375
+Stockholm,Bromma,Nockebyhov,59.3345132,17.9086111
+Stockholm,Bromma,Norra Ängby,59.3478676,17.9071336
+Stockholm,Bromma,Olovslund,59.3309234,17.9409263
+Stockholm,Bromma,Riksby,59.343036,17.9455049
+Stockholm,Bromma,Smedslätten,59.3202047,17.9659577
+Stockholm,Bromma,Stora Mossen,59.3314252,17.9568488
+Stockholm,Bromma,Södra Ängby,59.3412321,17.8958223
+Stockholm,Bromma,Traneberg,59.3387792,17.9813954
+Stockholm,Bromma,Ulvsunda,59.3374223,17.9600665
+Stockholm,Bromma,Ulvsunda Industriområde,59.3477126,17.9587679
+Stockholm,Bromma,Åkeshov,59.3421394,17.9242192
+Stockholm,Bromma,Åkeslund,59.336483,17.9371498
+Stockholm,Bromma,Ålsten,59.3235143,17.9509287
+Stockholm,Bromma,Äppelviken,59.3262251,17.971132
+Stockholm,Enskede-Årsta-Vantör,Enskedefältet,59.2844128,18.0602716
+Stockholm,Enskede-Årsta-Vantör,Enskede Gård,59.2892869,18.0702041
+Stockholm,Enskede-Årsta-Vantör,Gamla Enskede,59.2800116,18.0887181
+Stockholm,Enskede-Årsta-Vantör,Johanneshov,59.2946981,18.0840975
+Stockholm,Enskede-Årsta-Vantör,Stureby,59.2782527,18.0513452
+Stockholm,Enskede-Årsta-Vantör,Årsta,59.2964776,18.0528626
+Stockholm,Enskede-Årsta-Vantör,Östberga,59.2862102,18.0367711
+Stockholm,Enskede-Årsta-Vantör,Bandhagen,59.2680269,18.0510706
+Stockholm,Enskede-Årsta-Vantör,Högdalen,59.2625729,18.0461521
+Stockholm,Enskede-Årsta-Vantör,Örby,59.2718469,18.0271185
+Stockholm,Enskede-Årsta-Vantör,Rågsved,59.2560759,18.0283485
+Stockholm,Enskede-Årsta-Vantör,Hagsätra,59.2624505,18.0175959
+Stockholm,Farsta,Fagersjö,59.2503194,18.0568302
+Stockholm,Farsta,Farsta,59.2453471,18.0883657
+Stockholm,Farsta,Farsta strand,59.2350494,18.1020664
+Stockholm,Farsta,Farstanäset,59.2395196,18.06677
+Stockholm,Farsta,Gubbängen,59.2625511,18.0824784
+Stockholm,Farsta,Hökarängen,59.2556212,18.0799982
+Stockholm,Farsta,Larsboda,59.2395381,18.1078608
+Stockholm,Farsta,Sköndal,59.2552389,18.1123844
+Stockholm,Farsta,Svedmyra,59.2749323,18.0717919
+Stockholm,Farsta,Tallkrogen,59.2710403,18.0835144
+Stockholm,Hägersten-Liljeholmen,Aspudden,59.3065662,17.9898661
+Stockholm,Hägersten-Liljeholmen,Fruängen,59.2865892,17.9641404
+Stockholm,Hägersten-Liljeholmen,Gröndal,59.304323,18.0112886
+Stockholm,Hägersten-Liljeholmen,Hägersten,59.2994582,18.0173078
+Stockholm,Hägersten-Liljeholmen,Hägerstensåsen,59.2975234,17.9821864
+Stockholm,Hägersten-Liljeholmen,Liljeholmen,59.3106125,18.0228316
+Stockholm,Hägersten-Liljeholmen,Midsommarkransen,59.304323,18.0112886
+Stockholm,Hägersten-Liljeholmen,Mälarhöjden,59.2976632,17.9526813
+Stockholm,Hägersten-Liljeholmen,Västberga,59.3021466,18.0198768
+Stockholm,Hägersten-Liljeholmen,Västertorp,59.2933107,17.9710633
+Stockholm,Hässelby-Vällingby,Backlura,59.3947514,17.8163555
+Stockholm,Hässelby-Vällingby,Kälvesta,59.3834721,17.8540246
+Stockholm,Hässelby-Vällingby,Nälsta,59.3733034,17.8855357
+Stockholm,Hässelby-Vällingby,Råcksta,59.3601908,17.8851095
+Stockholm,Hässelby-Vällingby,Vinsta,59.3719019,17.8576184
+Stockholm,Hässelby-Vällingby,Hässelby,59.3774824,17.8136779775292
+Stockholm,Hässelby-Vällingby,Vällingby,59.3659643,17.8716341
+Stockholm,Kungsholmen,Fredhäll,59.3298217,18.0030284
+Stockholm,Kungsholmen,Kristineberg,59.3325611,18.0041091
+Stockholm,Kungsholmen,Lilla Essingen,59.3245384,18.0063166
+Stockholm,Kungsholmen,Marieberg,59.330329,18.0233206
+Stockholm,Kungsholmen,Stadshagen,59.3340818,18.0246865
+Stockholm,Kungsholmen,Stora Essingen,59.3217466,17.9906916237081
+Stockholm,Norrmalm,Skeppsholmen,59.3253564,18.0850038
+Stockholm,Norrmalm,Vasastaden,59.3395526,18.0532716
+Stockholm,Norrmalm,Norrmalm,59.3299775,18.0576622
+Stockholm,Östermalm,Djurgården,59.3385405,18.0998891
+Stockholm,Östermalm,Hjorthagen,59.355077,18.0996306
+Stockholm,Östermalm,Ladugårdsgärdet,59.3385405,18.0998891
+Stockholm,Östermalm,Norra Djurgården,59.3385405,18.0998891
+Stockholm,Rinkeby-Kista,Akalla,59.4147004,17.9218177
+Stockholm,Rinkeby-Kista,Husby,59.409991,17.9262805
+Stockholm,Rinkeby-Kista,Kista,59.403311,17.9442849
+Stockholm,Rinkeby-Kista,Rinkeby,59.3881231,17.9285698
+Stockholm,Skärholmen,Bredäng,59.2947939,17.9339326
+Stockholm,Skärholmen,Skärholmen,59.2769204,17.9067517
+Stockholm,Skärholmen,Sätra,59.2854236,17.915482
+Stockholm,Skärholmen,Vårberg,59.2758872,17.889953
+Stockholm,Skarpnäck,Bagarmossen,59.2788038,18.1161673
+Stockholm,Skarpnäck,Björkhagen,59.2788038,18.1161673
+Stockholm,Skarpnäck,Enskededalen,59.2788038,18.1161673
+Stockholm,Skarpnäck,Flaten,59.251924,18.174457
+Stockholm,Skarpnäck,Hammarbyhöjden,59.2939215,18.0980149
+Stockholm,Skarpnäck,Kärrtorp,59.2788038,18.1161673
+Stockholm,Skarpnäck,Orhem,59.2481036,18.1379999
+Stockholm,Skarpnäck,Skarpnäcks Gård,59.2788038,18.1161673
+Stockholm,Skarpnäck,Skrubba,59.2402074,18.1812825
+Stockholm,Södermalm,Gamla Stan,59.3249529,18.0706429
+Stockholm,Södermalm,Långholmen,59.3218366,18.0274653
+Stockholm,Södermalm,Reimersholme,59.3182149,18.0209058
+Stockholm,Södermalm,Riddarholmen,59.3250246,18.0636285419378
+Stockholm,Södermalm,Årsta holmar,59.30721445,18.0449482447613
+Stockholm,Södermalm,Södra Hammarbyhamnen,59.3095829,18.097413
+Stockholm,Spånga-Tensta,Bromsten,59.3828205,17.9156497
+Stockholm,Spånga-Tensta,Flysta,59.3678823,17.904972
+Stockholm,Spånga-Tensta,Lunda,59.3913028,17.8793887
+Stockholm,Spånga-Tensta,Solhem,59.3820332,17.8978211
+Stockholm,Spånga-Tensta,Sundby,59.3699626,17.9172416
+Stockholm,Spånga-Tensta,Akalla,59.4108671,17.8954913
+Stockholm,Spånga-Tensta,Tensta,59.3957349,17.9032284
+Stockholm,Spånga-Tensta,Husby,59.4137901,17.899268
